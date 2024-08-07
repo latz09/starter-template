@@ -18,6 +18,9 @@ export default async function Home() {
 						<h1 className='text-2xl text-dark font-bold'>{`Simple Design`}</h1>
 						<AnimateUp className='mt-2 font-semibold space-y-4 '>
 							<li>Create new CMS project</li>
+							<li>
+								Include <strong>contact-form-schema-template </strong> in cms
+							</li>
 							<li>Update Credentials in .env.local</li>
 							<li>Update Color Scheme in tailwind.config.js</li>
 							<li>Update Navigation Links in data/navigationLinks.js</li>
