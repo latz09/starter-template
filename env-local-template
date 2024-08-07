@@ -1,0 +1,12 @@
+# SANITY_API_TOKEN=
+SANITY_PROJECT_ID=
+SANITY_API_TOKEN=
+
+# Node Mailer Authentication
+EMAIL_PASS=
+EMAIL_USER=
+
+# Client Email 
+# Used for contact form notification
+
+CLIENT_EMAIL=
